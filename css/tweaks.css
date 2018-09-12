@@ -1,0 +1,62 @@
+.fix-bio {
+	text-align: justify;
+	margin-top: 1.25em;
+
+}
+
+.no-bullet {
+	list-style-type: none;
+}
+
+.hashtag{
+
+
+font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+color: inherit;
+font-size: 1.4em;
+
+
+	}
+
+.hashtag-icons{
+	letter-spacing: 7px;
+}
+
+.attribute {
+	font-size: .75em;
+	font-family:  'Open Sans','Helvetica Neue',Arial,sans-serif;
+	color: rgb(151, 136, 136);
+}
+
+.attribute a:hover{
+	text-decoration: none;
+}
+
+.codeland-link{
+
+	color: rgba(255, 255, 255, 0.7);
+
+}
+
+.codeland-link:hover {
+	color: rgba(209, 209, 209, 0.7);
+	text-decoration: none;
+}
+
+.twitter-space{
+	margin-bottom: 15px;
+
+}
+
+.center-div{
+		font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+		margin: 0 22%;
+		text-align: left;
+
+}
+
+.download {
+	
+	margin-top: 15px ;
+	
+}
